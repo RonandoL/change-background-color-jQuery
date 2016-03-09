@@ -1,0 +1,23 @@
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.text1 {
+  margin-top: 15px;
+  padding: 10px;
+  background-color: #66a3ff;
+  border-radius: 10px;
+}
+
+.change {
+  color: white;
+  background-color: #0066ff;
+}
